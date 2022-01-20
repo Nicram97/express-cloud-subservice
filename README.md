@@ -1,6 +1,6 @@
 <h1>Express-cloud-subservice</h1>
 <p>
-This app is subservice of <b>Express-cloud-setup</b>
+This app is subservice of <b>Express-cloud-setup && Nestjs-cloud-setup</b>
 It provides endpoint under "/" path which return json array of cars objects which is used to exercise access from one service to another, and to provide second service for contract testing using Pact.
 </p>
 
